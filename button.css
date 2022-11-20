@@ -17,6 +17,10 @@ body{
     position: relative;
     overflow: hidden;  
 }
+.klk span{
+     position: relative;
+     z-index: 1;
+}
 /* :: beforp is seudo elemnte it's used to style specified parts of an element*/
 .klk::before{  
     content: "";
