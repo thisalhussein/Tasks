@@ -15,6 +15,7 @@ body{
     text-decoration: none;
     color: black;  
 }
-.klk::before{
-    
+/* :: beforp is seudo elemnte it's used to style specified parts of an element*/
+.klk::before{  
+    content: "";
 }
