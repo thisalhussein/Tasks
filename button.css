@@ -13,5 +13,8 @@ body{
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0,0,0,.4); /*the first value in the box shadow is the position of the horizontal shadow is 0 the next one is the position of the vertical shadow is 4px and add blur radius is 8px and change the color of the shadow by rgba */
     text-decoration: none;
-    color: black;
+    color: black;  
+}
+.klk::before{
+    
 }
