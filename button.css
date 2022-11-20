@@ -20,4 +20,5 @@ body{
 .klk::before{  
     content: "";
     position: absolute;
+    background-color: blue;
 }
