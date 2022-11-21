@@ -2,5 +2,6 @@ const klke = document.querySelector(".klk"); //use const to creat variable equal
 klke.addEventListener("mouseover", (event)=>{
  const x = (event.pageX - klke.offsetLeft);
  const y = (event.pagey - klke.offsetTop);
- klke.style.setProperty("--xPos", x + "px")
+ klke.style.setProperty("--xPos", x + "px");
+ klke.style.setProperty("--yPos", y + "px");
 })
