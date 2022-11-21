@@ -1,0 +1,1 @@
+const klke = document.querySelector(".klk");
